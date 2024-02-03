@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Maps/HUD.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/M_EnemyTop.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/M_HealthPack.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/M_EnemyMain.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/projectile.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/M_Projectile.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/CameraShake.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/healthpack.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Blueprints/HealthPack.uasset",
+				"/Users/aceprime80/Documents/Unreal Projects/InfiniteMatrixStarter 5.3/Content/InfiniteMatrix/Materials/enemytop.uasset"
+			]
+		}
+	]
+}
